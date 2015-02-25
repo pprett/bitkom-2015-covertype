@@ -6,4 +6,4 @@
 
 ## Slides
 
-[]()
+[Bitkom_Big\ Data\ for\ Social\ Good_20150225.pdf](https://github.com/pprett/bitkom-2015-covertype/raw/master/Bitkom_Big%20Data%20for%20Social%20Good_20150225.pdf)
